@@ -1,5 +1,4 @@
 
-
 let name = "Chinu"
 let age = 22
 let Bool = false
